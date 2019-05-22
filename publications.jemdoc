@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{publications.html},notime,nodate,nofooter
+= Publications
+Email me if you are interested in the preprints that are not available online.
+
+== Conference and workshop proceedings 
+. [./pubs/sigmetrics15-zhi.pdf Pricing Bilateral Electricity Trade between Smart Grids and Hybrid Green Datacenters] \n
+*Zhi Zhou*, Fangming Liu, Zongpeng Li \n
+ACM SIGMETRICS, poster paper, 2015.
+. [./pubs/infocom15-zhi.pdf When Smart Grid Meets Geo-distributed Cloud: An Auction Approach to Datacenter Demand Response] \n
+*Zhi Zhou*, Fangming Liu, Zongpeng Li, Hai Jin \n
+IEEE INFOCOM, 2015.
+. [./pubs/icdcs14-zhi.pdf Fuel Cell Generation in Geo-Distributed Cloud Services: A Quantitative Study] \n
+*Zhi Zhou*, Fangming Liu, Bo Li, Baochun Li, Hai Jin, Ruolan Zou, Zhiyong Liu \n
+IEEE ICDCS, 2014.
+. [./pubs/mascots13-zhi.pdf Carbon-aware Load Balancing for Geo-Distributed Cloud Services] \n
+*Zhi Zhou*, Fangming Liu, Yong Xu, Ruolan Zou, Hong Xu, John C.S. Lui, Hai Jin \n
+IEEE MASCOTS, 2013.
+. [./pubs/infocom13-zhi.pdf On Arbitrating the Power-Performance Tradeoff in SaaS Clouds] \n
+*Zhi Zhou*, Fangming Liu, Hai Jin, Bo Li, Baochun Li, Hongbo Jiang \n
+IEEE INFOCOM, 2013.
+
+== Journal publications
+. [./pubs/tpds16-zhi.pdf  Carbon-aware Online Control of Geo-Distributed Cloud Services] \n
+*Zhi Zhou*, Fangming Liu, Ruolan Zou, Jiangchuan Liu, Hong Xu, Hai Jin \n
+IEEE Transactions on Parallel and Distributed Systems, to appear.
+. [./pubs/tpds14-zhi.pdf On Arbitrating the Power-Performance Tradeoff in SaaS Clouds] \n
+Fangming Liu, *Zhi Zhou*, Hai Jin, Bo Li, Baochun Li, Hongbo Jiang \n
+IEEE Transactions on Parallel and Distributed Systems, vol.25. no.10, 2014.
